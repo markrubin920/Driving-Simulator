@@ -3,8 +3,8 @@
  *  This creates a stoplight object that changes colors
  *  after a specified amount of time.
  *
- *  Compile: javac-introcs Stoplight.java
- *  Run: java-introcs Stoplight
+ *  Compile: javac-algs4 Stoplight.java
+ *  Run: java-algs4 Stoplight
  */
 
 import edu.princeton.cs.algs4.StdDraw;
