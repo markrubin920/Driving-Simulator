@@ -4,8 +4,8 @@
  *  vehicle to infrastructure communication so the car knows where to turn and
  *  stop.
  *
- *  Compilation: javac-introcs Car.java
- *  Run: java-introcs Car
+ *  Compilation: javac-algs4 Car.java
+ *  Run: java-algs4 Car
  */
 
 import edu.princeton.cs.algs4.StdDraw;
