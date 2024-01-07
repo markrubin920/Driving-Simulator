@@ -5,9 +5,9 @@
  *   of the environment and runs the driving simulator. It only has
  *   a main method.
  *
- *   Compile: javac-introcs Client.java
- *   Run: java-introcs Client < Environment1 or
- *   java-introcs Client < Environment2
+ *   Compile: javac-algs4 Client.java
+ *   Run: java-algs4 Client < ./Environment-Files/Environment1.txt or
+ *   java-introcs Client < ./Environment-Files/Environment2.txt
  */
 
 import edu.princeton.cs.algs4.StdDraw;
