@@ -6,8 +6,8 @@
  *  It is a child class of the car since they share many
  *  similar characteristics.
  *
- *  Compile: javac-introcs UserCar.java
- *  Run: java-introcs UserCar
+ *  Compile: javac-algs4 UserCar.java
+ *  Run: java-algs4 UserCar
  */
 
 import edu.princeton.cs.algs4.StdDraw;
