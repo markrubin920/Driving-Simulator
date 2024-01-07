@@ -3,8 +3,8 @@
  *  Adapted from given keyboard class in COS126 Guitar Hero assignment,
  *  this class allows for user input to adjust the user car
  *
- *  Compile: javac-introcs Keyboard.java
- *  Run: java-introcs Keyboard
+ *  Compile: javac-algs4 Keyboard.java
+ *  Run: java-algs4 Keyboard
  */
 
 import edu.princeton.cs.algs4.StdOut;
